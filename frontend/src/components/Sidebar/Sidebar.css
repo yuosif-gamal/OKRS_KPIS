@@ -1,0 +1,25 @@
+.sidebar::-webkit-scrollbar {
+    width: 5px;
+}
+   
+.sidebar::-webkit-scrollbar-track {
+    background-color: #04393b;
+}
+.sidebar {
+    background: url(../../assets/images/img1.png) 50% 0 no-repeat fixed;
+    border: 10px;
+}
+
+.imageBackGround {
+    background: url(../../assets/images/img1.png) 50% 0 no-repeat fixed;
+}
+.backgroundgreen {
+    background-color: #04393b;
+}
+
+.backgroundGreenHover:hover {
+    background-color:  #04393b;
+}
+.sidebar::-webkit-scrollbar-thumb {
+    background-color: #04393b;
+}
